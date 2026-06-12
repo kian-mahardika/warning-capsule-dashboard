@@ -36,27 +36,4 @@ Dashboard prototype untuk pitch business plan **Warning Capsule**. Project ini d
    - Bisa collapse/explode layers
    - Klik layer untuk melihat detail komponen
 
-## Cara menjalankan lokal
 
-```bash
-npm install
-npm run dev
-```
-
-Buka:
-
-```txt
-http://localhost:3000
-```
-
-## Deploy ke Vercel
-
-1. Upload folder ini ke repository GitHub.
-2. Buka Vercel.
-3. Add New Project.
-4. Import repository `warning-capsule-dashboard`.
-5. Klik Deploy.
-
-## Catatan
-
-Semua angka masih berupa dummy data untuk kebutuhan pitch/demo. Ganti isi `src/data/dashboardData.js` jika ingin menyesuaikan angka dengan proposal final.
